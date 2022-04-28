@@ -1,2 +1,0 @@
-# eric-jessyrepo
-collaboproj
